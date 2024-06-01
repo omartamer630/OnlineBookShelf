@@ -9,7 +9,3 @@ Online BookShelf is a Python project that allows users to create accounts, log i
 - User account creation and login
 - Add books to the bookshelf
 - Increase storage space for books
-
-## How to Use
-
-1. **Clone the Repository:**
